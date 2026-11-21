@@ -1,0 +1,18 @@
+[
+    {
+        "claim_id": 103,
+        "type": "HealthClaim",
+        "customer_name": "Aaaisha",
+        "claim_amount": 2200.0,
+        "payout": 1600.0,
+        "status": "Approved"
+    },
+    {
+        "claim_id": 102,
+        "type": "PropertyClaim",
+        "customer_name": "Zain",
+        "claim_amount": 3000.0,
+        "payout": 1700.0,
+        "status": "Approved (Appeal)"
+    }
+]

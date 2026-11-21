@@ -1,0 +1,4 @@
+claim_id,type,customer_name,claim_amount,payout,status
+103,HealthClaim,Aaaisha,2200.0,1600.0,Approved
+101,AutoClaim,Ali,5500.0,4500.0,Permanently Denied
+102,PropertyClaim,Zain,3000.0,1700.0,Approved (Appeal)
