@@ -90,7 +90,7 @@ def main():
                 print("Denial upheld.")
 
         elif choice == "4":
-            pending = pending_queue.get_all
+            pending = pending_queue.get_all()
             if not pending:
                 print("No pending claims to sort.")
                 continue
